@@ -98,7 +98,8 @@ _build/nrf52832_xxaa/main.cpp.o: main.cpp Arduino.h \
  C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_gpio.h \
  C:/Eclipse/nRF5_SDK_15.3.0/components/libraries/delay/nrf_delay.h \
  MPU9250.h Wire.h C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_twi.h \
- AHRS.h Bluetooth.h
+ AHRS.h Bluetooth.h \
+ C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_timer.h
 
 Arduino.h:
 
@@ -307,3 +308,5 @@ C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_twi.h:
 AHRS.h:
 
 Bluetooth.h:
+
+C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_timer.h:
