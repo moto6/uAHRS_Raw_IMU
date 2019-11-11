@@ -5,3 +5,10 @@
  */
 
 #include "Bluetooth.h"
+
+_BT BT;
+
+void _BT::Init(){
+	// 블루투스 초기화
+	Serial.println(" >>> Initialize BLE");
+}

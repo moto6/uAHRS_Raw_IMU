@@ -8,6 +8,15 @@
 #ifndef BLUETOOTH_H_
 #define BLUETOOTH_H_
 
+#include "Arduino.h"
+
+extern _Serial Serial;
+
+class _BT{
+private:
+public:
+	void Init();
+};
 
 
 

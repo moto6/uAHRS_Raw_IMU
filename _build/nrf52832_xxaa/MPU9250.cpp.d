@@ -78,7 +78,35 @@ _build/nrf52832_xxaa/MPU9250.cpp.o: MPU9250.cpp MPU9250.h \
  C:/Eclipse/nRF5_SDK_15.3.0/components/libraries/util/sdk_errors.h \
  C:/Eclipse/nRF5_SDK_15.3.0/components/libraries/util/sdk_resources.h \
  C:/Eclipse/nRF5_SDK_15.3.0/components/softdevice/s132/headers/nrf_sd_def.h \
- C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/drivers/nrfx_errors.h
+ C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/drivers/nrfx_errors.h Arduino.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\stdlib.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\cstdlib \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\c++config.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\os_defines.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\cpu_defines.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\stdlib.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\machine\stdlib.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\alloca.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\bits\std_abs.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\string.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\xlocale.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\strings.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\sys\string.h \
+ C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_rtc.h \
+ C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_clock.h \
+ C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_saadc.h \
+ C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_uart.h \
+ C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_gpio.h \
+ C:/Eclipse/nRF5_SDK_15.3.0/components/libraries/delay/nrf_delay.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\math.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\cmath \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\bits\cpp_type_traits.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\ext\type_traits.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\math.h \
+ C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_nvmc.h \
+ C:/Eclipse/nRF5_SDK_15.3.0/components/softdevice/common/nrf_sdh.h \
+ C:/Eclipse/nRF5_SDK_15.3.0/components/libraries/experimental_section_vars/nrf_section_iter.h \
+ C:/Eclipse/nRF5_SDK_15.3.0/components/libraries/experimental_section_vars/nrf_section.h
 
 MPU9250.h:
 
@@ -243,3 +271,61 @@ C:/Eclipse/nRF5_SDK_15.3.0/components/libraries/util/sdk_resources.h:
 C:/Eclipse/nRF5_SDK_15.3.0/components/softdevice/s132/headers/nrf_sd_def.h:
 
 C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/drivers/nrfx_errors.h:
+
+Arduino.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\stdlib.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\cstdlib:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\c++config.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\os_defines.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\arm-none-eabi\thumb\v7e-m+fp\hard\bits\cpu_defines.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\stdlib.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\machine\stdlib.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\alloca.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\bits\std_abs.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\string.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\xlocale.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\strings.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\sys\string.h:
+
+C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_rtc.h:
+
+C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_clock.h:
+
+C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_saadc.h:
+
+C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_uart.h:
+
+C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_gpio.h:
+
+C:/Eclipse/nRF5_SDK_15.3.0/components/libraries/delay/nrf_delay.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\math.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\cmath:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\bits\cpp_type_traits.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\ext\type_traits.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\math.h:
+
+C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_nvmc.h:
+
+C:/Eclipse/nRF5_SDK_15.3.0/components/softdevice/common/nrf_sdh.h:
+
+C:/Eclipse/nRF5_SDK_15.3.0/components/libraries/experimental_section_vars/nrf_section_iter.h:
+
+C:/Eclipse/nRF5_SDK_15.3.0/components/libraries/experimental_section_vars/nrf_section.h:

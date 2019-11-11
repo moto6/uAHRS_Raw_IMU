@@ -9,6 +9,10 @@
 
 #include "stdio.h"
 #include "Wire.h"
+#include "Arduino.h"
+#include "math.h"
+#include "nrf_nvmc.h"
+#include "nrf_sdh.h"
 
 #define MPU9250 0x68
 
@@ -150,17 +154,20 @@
 #define RPDS_L 0x39
 #define RPDS_H 0x3A
 
-extern _Wire Wire;
-
 class _MPU9250{
 private:
+	int16_t ASA[3] = {0}, offsetHard[3] = {0}, offsetSoft[3] = {0};
+	void writeData(uint8_t deviceId, uint8_t reg_addr, uint8_t data);
+	int16_t *getOffsetAccel();
+	int16_t *getOffsetGyro();
 public:
 	void Init();
-	uint8_t getDeviceId();
-	uint8_t getMagId();
-	int16_t getRawAccel();
-	int16_t getRawGyro();
-	int16_t getRawMag();
+	bool getDeviceId();
+	bool getMagId();
+	int16_t *getRawAccel();
+	int16_t *getRawGyro();
+	int16_t *getRawMag();
+	int16_t *getCalibratedMag();
 	void caliAccel();
 	void caliGyro();
 	void caliMag();

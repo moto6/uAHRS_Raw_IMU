@@ -98,7 +98,18 @@ _build/nrf52832_xxaa/main.cpp.o: main.cpp Arduino.h \
  C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_gpio.h \
  C:/Eclipse/nRF5_SDK_15.3.0/components/libraries/delay/nrf_delay.h \
  MPU9250.h Wire.h C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_twi.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\math.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\cmath \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\bits\cpp_type_traits.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\ext\type_traits.h \
+ c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\math.h \
+ C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_nvmc.h \
+ C:/Eclipse/nRF5_SDK_15.3.0/components/softdevice/common/nrf_sdh.h \
+ C:/Eclipse/nRF5_SDK_15.3.0/components/libraries/experimental_section_vars/nrf_section_iter.h \
+ C:/Eclipse/nRF5_SDK_15.3.0/components/libraries/experimental_section_vars/nrf_section.h \
  AHRS.h Bluetooth.h \
+ C:/Eclipse/nRF5_SDK_15.3.0/integration/nrfx/legacy/nrf_drv_timer.h \
+ C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/drivers/include/nrfx_timer.h \
  C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_timer.h
 
 Arduino.h:
@@ -305,8 +316,30 @@ Wire.h:
 
 C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_twi.h:
 
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\math.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\cmath:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\bits\cpp_type_traits.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\c++\8.2.1\ext\type_traits.h:
+
+c:\eclipse\gnu\ mcu\ eclipse\arm\ embedded\ gcc\8.2.1-1.7-20190524-0603\arm-none-eabi\include\math.h:
+
+C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_nvmc.h:
+
+C:/Eclipse/nRF5_SDK_15.3.0/components/softdevice/common/nrf_sdh.h:
+
+C:/Eclipse/nRF5_SDK_15.3.0/components/libraries/experimental_section_vars/nrf_section_iter.h:
+
+C:/Eclipse/nRF5_SDK_15.3.0/components/libraries/experimental_section_vars/nrf_section.h:
+
 AHRS.h:
 
 Bluetooth.h:
+
+C:/Eclipse/nRF5_SDK_15.3.0/integration/nrfx/legacy/nrf_drv_timer.h:
+
+C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/drivers/include/nrfx_timer.h:
 
 C:/Eclipse/nRF5_SDK_15.3.0/modules/nrfx/hal/nrf_timer.h:

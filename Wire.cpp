@@ -7,7 +7,7 @@
 
 #include "Wire.h"
 #include "arduino.h"
-extern _Serial Serial;
+
 _Wire Wire;
 
 void _Wire::begin(){
@@ -103,8 +103,10 @@ uint8_t _Wire::available(){
 }
 
 uint8_t _Wire::read(){
+	static uint8_t output = 0;
+	output = rxBuffer[rCount];
 	rCount++;
-	return rxBuffer[rCount];
+	return output;
 }
 
 void _Wire::setClock(uint32_t frequency){

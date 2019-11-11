@@ -94,7 +94,6 @@ void _Serial::println(const char *texts){
 
 uint8_t _Serial::read(){
 	uint8_t output = 0;
-	char ch[10];
 	if(nrf_uart_event_check(NRF_UART0, NRF_UART_EVENT_RXDRDY) > 0){
 		output = nrf_uart_rxd_get(NRF_UART0);
 		nrf_uart_event_clear(NRF_UART0, NRF_UART_EVENT_RXDRDY);
