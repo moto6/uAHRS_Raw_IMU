@@ -153,11 +153,8 @@ int16_t* _MPU9250::getRawMag(){
 			output[i] = (float)output[i]*0.15f;		// uT 단위로 변환
 		}
 		output[3] = 1;
-		return output;
-	}else{
-		memset(&output, 0, sizeof(output));
-		return output;
 	}
+	return output;
 }
 int16_t* _MPU9250::getCalibratedMag(){
 	static int16_t output[4] = {0};
